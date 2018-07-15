@@ -1,0 +1,8 @@
+package top.sayencool.javaconfig2.function;
+
+public class FunctionService {
+
+    public String sayHello(String word) {
+        return "Hello " + word + " !";
+    }
+}
